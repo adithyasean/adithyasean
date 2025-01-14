@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm **Adithya Séan Bandara Ekanayaka**
+## Hi there! 👋 I'm **Adithya Ekanayaka**
 
 Welcome to my GitHub profile! I'm a **computer science undergraduate** at NIBM Colombo with interests in **AI**, **robotics**, **machine learning**, and **web development**. I love solving real-world problems through technology.
 
@@ -24,14 +24,7 @@ Welcome to my GitHub profile! I'm a **computer science undergraduate** at NIBM C
 - **Programming**: JavaScript, Python, C#, Java
 - **Web Development**: Node.js, React, Flask
 - **AI/ML Tools**: TensorFlow, PyTorch, OpenCV
-- **Databases**: SQL, Oracle DB
-
----
-
-## 🌟 Achievements:
-- **Finalist**: ComBank sinGPT Hackathon 2024
-- Member of the **Google Developer Program**
-- **IEEE Member**
+- **Databases**: SQL, Oracle DB, PostgreSQL
 
 ---
 
