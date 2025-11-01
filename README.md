@@ -75,7 +75,6 @@ Welcome to my GitHub profile! I'm a **computer science undergraduate** at NIBM C
 ---
 
 ## 📫 Let's Connect:
-- **Email**: adithyasean@gmail.com
 - **LinkedIn**: [linkedin.com/in/adithyasean](https://www.linkedin.com/in/adithyasean/)
 - **GitHub**: [github.com/adithyasean](https://github.com/adithyasean)
 - **Website**: [adithyasean.github.io](https://adithyasean.github.io)
