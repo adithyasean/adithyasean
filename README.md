@@ -87,6 +87,5 @@ Welcome to my GitHub profile! I'm a **computer science undergraduate** at NIBM C
 - **Website**: [adithyasean.github.io](https://adithyasean.github.io)
 - **Hugging Face**: [huggingface.co/adithyasean](https://huggingface.co/adithyasean)
 - **Credly**: [credly.com/users/adithyasean](https://www.credly.com/users/adithyasean)
-- **Phone/WhatsApp**: [Phone Redacted]
 
 Feel free to check out my repositories and connect for collaborations!
