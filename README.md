@@ -14,34 +14,41 @@ Welcome to my GitHub profile! I'm a **computer science undergraduate** at NIBM C
 ---
 
 ## 📚 Education:
-- **BSc (Hons) Computing** (Awarded by Coventry University) - National Institute of Business Management (NIBM), Colombo (2024 - Current)
-- **Higher National Diploma in Software Engineering** - NIBM, Colombo (2023)
-- **Diploma in Software Engineering** - NIBM, Colombo (2022)
+- **BSc (Hons) Computing** (Awarded by Coventry University, UK) - National Institute of Business Management (NIBM), Colombo (2024 - Present)
+- **Higher National Diploma in Software Engineering** - NIBM, Colombo (Graduated 2024)
+- **Diploma in Software Engineering** - NIBM, Colombo (Graduated 2023)
 
 ---
 
 ## 💼 Work Experience:
-- **Software Engineer** - Araaya Business Solutions, Colombo (Aug 2025 - Current)
+- **Software Engineer** - Araaya Business Solutions, Colombo (Aug 2025 - Present)
+  - **Client-Side Automation & Integration**: Engineered a dynamic, stateful input automation system for the core enterprise platform featuring fuzzy matching, AJAX-based field population, validation, and batch telemetry tracking. Developed custom voice- and vision-assisted form-filling web components utilizing IndexedDB persistence for offline-first support.
+  - **Backend Modernization & API Refactoring**: Spearheaded the modernization of a legacy Java Struts web application into a Spring Boot architecture. Refactored backend services to resolve database compatibility issues during Object-Relational Mapping (ORM) migrations.
+  - **Enterprise Search & Migration**: Containerized enterprise search configurations using Docker, resolved container network configurations, and optimized query indexing for national identity lookup services.
+  - **AI Workflows**: Integrated large language models (LLMs) dynamically into localized workflow tools, providing configurable model selection interfaces with persistent local storage.
 - **Intern Software Engineer** - Sri Lanka Telecom, Colombo (Feb 2025 - Aug 2025)
-  - Developed a real-time face recognition attendance system with hybrid attendance marking capabilities.
+  - **Attendance Platform Integration**: Developed and deployed a real-time, hybrid face recognition attendance system serving enterprise-wide workforce management needs.
+  - **Edge Inference**: Engineered a high-performance C++ edge inference module for facial recognition model deployment, minimizing latency and maximizing hardware efficiency on resource-constrained edge/IoT devices.
+  - **APIs & Dashboards**: Built a scalable backend API using FastAPI and Python to handle real-time telemetry, user registration, and attendance logging, integrating with an interactive React dashboard.
+  - **Hybrid Architecture**: Designed the hybrid cloud-edge architecture, ensuring offline resilience and secure, real-time data sync with central databases.
 
 ---
 
 ## 🏆 Achievements & Certifications:
-- **Rootcode Tech-Triathlon 2025 Finalist** - Selected as a finalist among top 8 teams (Apr 2025 - Sep 2025)
-- **Commercial Bank International Hackathon Finalist** - Top 8 out of 30 teams, developed Singlish chatbot using LLaMA 3.1 8B (May 2024 - Current)
+- **Rootcode Tech-Triathlon 2025 Finalist** - Selected as a finalist team (Top 8 out of 150+ teams / 1,000+ participants) in a national engineering hackathon (Aug 2025 - Sep 2025)
+- **Commercial Bank International Hackathon Finalist** - Top 8 out of 30 teams globally; led a team to build sinGPT, a specialized conversational LLM tailored for Sinhala-English hybrid queries using LLaMA 3.1 8B, LoRA, and Unsloth (May 2024 - Present)
 - **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** (Jul 2024)
-- **Linux Foundations Introduction to Linux** (Sep 2025)
-- **Google Developer Program** - Active participant (Jun 2024 - Current)
-- **IEEE Student Member** (2024)
+- **Linux Foundation Introduction to Linux** (Sep 2025)
+- **Google Developer Program** - Active participant (Jun 2024 - Present)
+- **IEEE Student Member** (2024 - Present)
 
 ---
 
 ## 📚 Projects:
-- **[ComBank sinGPT Hackathon Project](https://app.apixplatform.com/h1/combank-singpt)**: A Singlish chatbot using LLaMA 3.1 8B and LoRA. (Top 8 finalist)
-- **Realtime Attendance Marking System for Sri Lanka Telecom**: Real-time face recognition system using FastAPI, Python, C++, React.
-- **[Next Step: AI-Powered Career Guidance](https://github.com/adithyasean/Next-Step)**: Web app with microservices (Spring Boot), ML models, Docker, Kubernetes.
-- **[Enhanced Vision for Security Cameras](https://github.com/adithyasean/Enhanced-Security-Vision)**: Improved face detection in low-light using OpenCV.
+- **[ComBank sinGPT Hackathon Project](https://app.apixplatform.com/h1/combank-singpt)**: Led a team of developers to build sinGPT, a specialized conversational LLM tailored for "Singlish" queries. Orchestrated parameter-efficient fine-tuning (PEFT) on LLaMA 3.1 8B using LoRA and Unsloth, reducing training time by ~60%.
+- **Realtime Attendance Marking System for Sri Lanka Telecom**: Real-time face recognition system using FastAPI, Python, C++, and React, featuring high-performance C++ edge inference modules for facial recognition model deployment.
+- **[Next Step: AI-Powered Career Guidance](https://github.com/adithyasean/Next-Step)**: Architected a career guidance platform using a Spring Boot microservices architecture, containerized with Docker, and orchestrated via Kubernetes, integrating NLP and recommendation ML models.
+- **[Enhanced Vision for Security Cameras](https://github.com/adithyasean/Enhanced-Security-Vision)**: Developed a lightweight, real-time face detection system optimized for low-light conditions using OpenCV cascade classifiers, achieving high efficiency on resource-constrained embedded devices.
 - **Human-Following Robot**: Autonomous robot using repurposed smartphone and OpenBot project.
 - **School Management System**: Modern system for Sri Lankan government schools.
 
