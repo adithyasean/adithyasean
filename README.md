@@ -38,10 +38,10 @@ Welcome to my GitHub profile! I'm a **computer science undergraduate** at NIBM C
 ---
 
 ## 📚 Projects:
-- **ComBank sinGPT Hackathon Project**: A Singlish chatbot using LLaMA 3.1 8B and LoRA. (Top 8 finalist)
+- **[ComBank sinGPT Hackathon Project](https://app.apixplatform.com/h1/combank-singpt)**: A Singlish chatbot using LLaMA 3.1 8B and LoRA. (Top 8 finalist)
 - **Realtime Attendance Marking System for Sri Lanka Telecom**: Real-time face recognition system using FastAPI, Python, C++, React.
-- **Next Step: AI-Powered Career Guidance**: Web app with microservices (Spring Boot), ML models, Docker, Kubernetes.
-- **Enhanced Vision for Security Cameras**: Improved face detection in low-light using OpenCV.
+- **[Next Step: AI-Powered Career Guidance](https://github.com/adithyasean/Next-Step)**: Web app with microservices (Spring Boot), ML models, Docker, Kubernetes.
+- **[Enhanced Vision for Security Cameras](https://github.com/adithyasean/Enhanced-Security-Vision)**: Improved face detection in low-light using OpenCV.
 - **Human-Following Robot**: Autonomous robot using repurposed smartphone and OpenBot project.
 - **School Management System**: Modern system for Sri Lankan government schools.
 
